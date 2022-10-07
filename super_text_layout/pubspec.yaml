@@ -14,6 +14,6 @@ dependencies:
 
   attributed_text:
     git:
-      url: https://github.com/hieupham-anfin/atrributed_text.git
+      url: https://github.com/hieupham-anfin/attributed_text.git
       path: attributed_text
   logging: ^1.0.1
